@@ -1,0 +1,15 @@
+Andromeda Wars
+
+Steuerung;
+
+Linke Maustaste = Bewegen
+Rechts Maustaste = Attack
+Skills = Q , W , E
+
+Pause Menü = M
+
+Win/Lose = 10 Min.  // Mothercore einer Seite Zerstört.
+
+
+
+
